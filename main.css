@@ -164,6 +164,7 @@ em:hover,
   .page__wrapper {
     border-radius: 1rem;
     padding: 2rem;
+    padding-bottom: 0;
     width: 720px;
     margin-bottom: 3rem;
   }
